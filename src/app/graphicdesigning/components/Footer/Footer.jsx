@@ -95,11 +95,11 @@ const Footer = () => {
                     Graphic Designing
                   </Link>
                 </li>
-                {/* <li>
+                <li>
                   <Link href="/graphicdesigning/portfolio" className="text-[#a4a097] hover:text-white transition-colors">
                     View Portfolio
                   </Link>
-                </li> */}
+                </li>
               </ul>
             </div>
 

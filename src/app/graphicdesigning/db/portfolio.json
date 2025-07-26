@@ -1,0 +1,925 @@
+{
+    "portfolioItems": [
+        {
+            "type": "annual-reports",
+            "title": "GSEC Annual Report 2024",
+            "client": "Gujarat State Electricity Corporation",
+            "image": "/ourwork/Graphic/Annual Reports/GSEC.jpg"
+        },
+        {
+            "type": "annual-reports",
+            "title": "Corporate Annual Review",
+            "client": "TechCorp Industries",
+            "image": "/ourwork/Graphic/Annual Reports/Kalptaru.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Product Showcase Brochure",
+            "client": "GreenTech Solutions",
+            "image": "/ourwork/Graphic/Annual Reports/Ratnamani.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Services Catalogue",
+            "client": "Luxury Homeware",
+            "image": "/ourwork/Graphic/Annual Reports/Ratnamani-2.jpg"
+        },
+        {
+            "type": "business-directories",
+            "title": "Industrial Directory 2024",
+            "client": "Gujarat Chamber of Commerce",
+            "image": "/ourwork/Graphic/Brochures-catalogues/01.jpg"
+        },
+        {
+            "type": "business-directories",
+            "title": "Local Business Guide",
+            "client": "City Business Association",
+            "image": "/ourwork/Graphic/Brochures-catalogues/02.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Complete Brand Identity",
+            "client": "InnovateX Technologies",
+            "image": "/ourwork/Graphic/Brochures-catalogues/03.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Restaurant Brand System",
+            "client": "Bistro Modern",
+            "image": "/ourwork/Graphic/Brochures-catalogues/04.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Executive Presentation Folders",
+            "client": "Financial Group Ltd",
+            "image": "/ourwork/Graphic/Brochures-catalogues/05.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Corporate Document Folders",
+            "client": "Modern Architects",
+            "image": "/ourwork/Graphic/Brochures-catalogues/06.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Brochures-catalogues/07.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Brochures-catalogues/08.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/Brochures-catalogues/09.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/Brochures-catalogues/10.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Brochures-catalogues/11.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Brochures-catalogues/12.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Brochures-catalogues/13.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Brochures-catalogues/14.jpg"
+        },
+         {
+            "type": "business-directories",
+            "title": "Industrial Directory 2024",
+            "client": "Gujarat Chamber of Commerce",
+            "image": "/ourwork/Graphic/Brochures-catalogues/15.jpg"
+        },
+        {
+            "type": "business-directories",
+            "title": "Local Business Guide",
+            "client": "City Business Association",
+            "image": "/ourwork/Graphic/Brochures-catalogues/16.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Complete Brand Identity",
+            "client": "InnovateX Technologies",
+            "image": "/ourwork/Graphic/Brochures-catalogues/17.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Restaurant Brand System",
+            "client": "Bistro Modern",
+            "image": "/ourwork/Graphic/Brochures-catalogues/18.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Executive Presentation Folders",
+            "client": "Financial Group Ltd",
+            "image": "/ourwork/Graphic/Brochures-catalogues/19.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Corporate Document Folders",
+            "client": "Modern Architects",
+            "image": "/ourwork/Graphic/Brochures-catalogues/20.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Brochures-catalogues/21.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Brochures-catalogues/22.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/Brochures-catalogues/23.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/Brochures-catalogues/24.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Brochures-catalogues/25.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Brochures-catalogues/26.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Brochures-catalogues/27.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Brochures-catalogues/28.jpg"
+        },
+             {
+            "type": "corporate-folders",
+            "title": "Executive Presentation Folders",
+            "client": "Financial Group Ltd",
+            "image": "/ourwork/Graphic/Brochures-catalogues/29.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Corporate Document Folders",
+            "client": "Modern Architects",
+            "image": "/ourwork/Graphic/Brochures-catalogues/30.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Brochures-catalogues/31.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Brochures-catalogues/32.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/Brochures-catalogues/33.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/Brochures-catalogues/34.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Brochures-catalogues/35.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Brochures-catalogues/36.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Brochures-catalogues/37.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Brochures-catalogues/38.jpg"
+        },
+         {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_1.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_2.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_3.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_4.jpg"
+        },
+          {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Corporate Identity/Final 25 Years Silver Jubilee.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Corporate Identity/GMC.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Corporate Identity/Hiloni Stock Broking.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Corporate Identity/Neoplast.jpg"
+        },
+          {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Corporate Identity/Pathway.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Corporate Identity/PRL 60 Years Logo.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Corporate Identity/Sachin Filtech.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Corporate Identity/Swiss.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Corporate Identity/TCL.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Corporate Identity/Urja Setu.jpg"
+        },
+         {
+            "type": "corporate-folders",
+            "title": "Executive Presentation Folders",
+            "client": "Financial Group Ltd",
+            "image": "/ourwork/Graphic/Corporate-Folders/IGTR.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Corporate Document Folders",
+            "client": "Modern Architects",
+            "image": "/ourwork/Graphic/Corporate-Folders/MOL & Shashwat.jpg"
+        },
+         {
+            "type": "corporate-folders",
+            "title": "Executive Presentation Folders",
+            "client": "Financial Group Ltd",
+            "image": "/ourwork/Graphic/Corporate-Folders/Neoplast.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Corporate Document Folders",
+            "client": "Modern Architects",
+            "image": "/ourwork/Graphic/Corporate-Folders/Parekhs Hospital.jpg"
+        },
+         {
+            "type": "corporate-folders",
+            "title": "Executive Presentation Folders",
+            "client": "Financial Group Ltd",
+            "image": "/ourwork/Graphic/Corporate-Folders/Ratnamani.jpg"
+        },
+         {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Invitation Card/Diwali Greetings (D) Outer.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Invitation Card/Gujarat Pavilion.jpg"
+        },
+         {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Invitation Card/Gujaratday Invitation A4 front-1.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Invitation Card/IITF Final Invitation card Nov 2008-1.jpg"
+        },
+         {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Invitation Card/IndexTb Front-N.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation Card Title & Back-1.jpg"
+        },
+         {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation card-1.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation Gujarat Day_frontside.jpg"
+        },
+         {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation_Afront.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Invitation Card/invitation_F.jpg"
+        },
+         {
+            "type": "invitation-greeting-cards",
+            "title": "Corporate Event Invitations",
+            "client": "Global Enterprises",
+            "image": "/ourwork/Graphic/Invitation Card/Page-001.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",  
+            "title": "Festival Greeting Cards",
+            "client": "Cultural Foundation",
+            "image": "/ourwork/Graphic/Invitation Card/Rotary Shares Invitation Card.jpg"
+        },
+         {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/PRL/Jan 2007 Vol-22.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/News Magazines/PRL/Jan 2008 Vol-22.jpg"
+        },
+         {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/PRL/March 2009 Vol-24.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/News Magazines/PRL/Sep 2008 Vol-23.jpg"
+        },
+           {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_1.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_2.jpg"
+        },
+           {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_3.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_4.jpg"
+        },
+           {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_5.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_6.jpg"
+        },
+        
+           {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vo7 Oct-Jan-09.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-6 Dec-07.jpg"
+        },
+           {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-6 March-08.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Community Newsletter",
+            "client": "Resident Welfare Society",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-7 Apr-Jun-08.jpg"
+        },
+           {
+            "type": "news-magazine",
+            "title": "Industry Insights Magazine",
+            "client": "Trade Publications",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-8 Apr-June-09.jpg"
+        },
+           {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_1.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_2.jpg"
+        },
+           {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_3.jpg"
+        },
+         {
+            "type": "speech-books",
+            "title": "Conference Speech Collection",
+            "client": "Leadership Summit",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_4.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Motivational Speech Book",
+            "client": "Success Academy",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_5.jpg"
+        },
+         {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Letter Head/Aaditya.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Letter Head/Chemietron.jpg"
+        },
+         {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Letter Head/Clartech Industries.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Letter Head/GSEC.jpg"
+        },
+         {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Letter Head/M P Financial.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Letter Head/Pathway.jpg"
+        },
+         {
+            "type": "letter-head",
+            "title": "Executive Letterhead Design",
+            "client": "Healthcare Services",
+            "image": "/ourwork/Graphic/Letter Head/Ratnamani.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Professional Stationery Set",
+            "client": "Legal Associates",
+            "image": "/ourwork/Graphic/Letter Head/Umashankar Sharma.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Accurpress colour qtr page.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Print Advertisement Series",
+            "client": "Organic Foods Co.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/advs_190x255mmFinal.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Advt 12 x 15 cms.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Print Advertisement Series",
+            "client": "Organic Foods Co.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 23-5 x 25.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 34cm X 48cm.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Print Advertisement Series",
+            "client": "Organic Foods Co.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 255H x 190W mm-2.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Concept-2.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Print Advertisement Series",
+            "client": "Organic Foods Co.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/ISOLATOR AD 33 X 23.5 cm hi res.jpg"
+        },
+         {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Concept-2.jpg"
+        },
+         {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/magazine_ad_W-17 x H-22 cm.jpg"
+        },
+            {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Meghmani_1.jpg"
+        },
+         {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Meghmani_3.jpg"
+        },    {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/profile_advertisement.jpg"
+        },
+         {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Quippo.jpg"
+        }
+        ,    {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Red chilli ADVT-1.jpg"
+        },
+         {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Sachin Filtech_1.jpg"
+        }
+        ,    {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Universal.jpg"
+        },
+         {
+            "type": "advertisement-campaigns",
+            "title": "Digital Marketing Campaign",
+            "client": "FashionForward Brand",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Vyapti.jpg"
+        }
+        ,
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/001-6x6.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/003 Vibrant Gujarat.jpg"
+        }
+        ,
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/8' x 3' Banner.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/011 E-Governance.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/012 Urban Life upgradation.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/banner A4.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/banner-2.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/blue panel.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Centre Panel 12x18.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Clostenol+P-Depot.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Company Details.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Dicrysticin-DS + Zobid 20.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Education.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Homefood Panel C2Q.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Meghmani_2.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 1.jpg"
+        }
+        ,
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 2.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 4.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel_01 Mission Popup Stand Final.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/panels-2.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/panels-3.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/panels-8.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Pannels Profile_2' x 3'.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Penal 3.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 4.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 5.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 6.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Quality Control lab.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/red panel 254.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/red panle 122.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Rightside Panel Page A4 Landscap-2.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Corporate Signage System",
+            "client": "Tech Plaza Mall",
+            "image": "/ourwork/Graphic/Display Panels & Signages/yellow panle.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Zobid plus + oxalgin-P.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Exhibition Display Panels",
+            "client": "Trade Show Expo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Zycloz+Biobloom.jpg"
+        } 
+    ]
+}

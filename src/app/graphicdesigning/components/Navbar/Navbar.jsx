@@ -48,15 +48,15 @@ const Navbar = () => {
         // { name: 'Set Up', path: '/setup' }
       ]
     },
-    // {
-    //   name: 'View Portfolio',
-    //   path: '/graphicdesigning/portfolio',
-    //   children: [
-    //     // { name: 'Exclusive', path: '/ourworks/exclusive' },
-    //     // { name: 'International', path: '/ourworks/international' },
-    //     // { name: 'Domestic', path: '/ourworks/national' },
-    //   ]
-    // },
+    {
+      name: 'View Portfolio',
+      path: '/graphicdesigning/portfolio',
+      children: [
+        // { name: 'Exclusive', path: '/ourworks/exclusive' },
+        // { name: 'International', path: '/ourworks/international' },
+        // { name: 'Domestic', path: '/ourworks/national' },
+      ]
+    },
     {
       name: 'Testimonials',
       path: '/graphicdesigning/testimonials',

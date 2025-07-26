@@ -1,3 +1,4 @@
+
 "use client"
 import { useState, useEffect } from "react"
 import {
@@ -5,16 +6,87 @@ import {
     Layout,
     BookOpen,
     CreditCard,
+    Megaphone,
+    Monitor,
     Award,
-  
-  } from "lucide-react"
+    Image,
+    MessageCircle,
+    FileText,
+    FileBarChart,
+    Building,
+    FolderOpen,
+    Newspaper,
+    FileCheck,
+    Briefcase
+} from "lucide-react"
+import portfolioData from "../../../db/portfolio.json"
 
 const GraphicPortfolio = () => {
-
     const [activeTab, setActiveTab] = useState("all")
     const [animateElements, setAnimateElements] = useState(false)
     const [selectedDesign, setSelectedDesign] = useState(null)
 
+    // Get portfolio items from imported JSON
+    const portfolioItems = portfolioData.portfolioItems
+
+    // Define services based on the types in your JSON data
+const services = [
+    {
+        id: "annual-reports",
+        title: "Annual Reports",
+        icon: <FileBarChart className="w-4 h-4" />
+    },
+    {
+        id: "brochures-catalogues",
+        title: "Brochures/Catalogues",
+        icon: <FileText className="w-4 h-4" />
+    },
+    {
+        id: "business-directories",
+        title: "Business Directories",
+        icon: <Building className="w-4 h-4" />
+    },
+    {
+        id: "corporate-identity",
+        title: "Corporate Identity",
+        icon: <Award className="w-4 h-4" />
+    },
+    {
+        id: "corporate-folders",
+        title: "Corporate Folders",
+        icon: <FolderOpen className="w-4 h-4" />
+    },
+    {
+        id: "invitation-greeting-cards",
+        title: "Invitation/Greeting Cards",
+        icon: <MessageCircle className="w-4 h-4" />
+    },
+    {
+        id: "news-magazine",
+        title: "News Magazine",
+        icon: <Newspaper className="w-4 h-4" />
+    },
+    {
+        id: "speech-books",
+        title: "Speech Books",
+        icon: <BookOpen className="w-4 h-4" />
+    },
+    {
+        id: "letter-head",
+        title: "Letter Head",
+        icon: <FileCheck className="w-4 h-4" />
+    },
+    {
+        id: "advertisement-campaigns",
+        title: "Advertisement Campaigns",
+        icon: <Megaphone className="w-4 h-4" />
+    },
+    {
+        id: "display-panels-signages",
+        title: "Display Panels & Signages",
+        icon: <Monitor className="w-4 h-4" />
+    }
+]
 
     useEffect(() => {
         setAnimateElements(true)
@@ -27,179 +99,176 @@ const GraphicPortfolio = () => {
         }, 3000)
 
         return () => clearInterval(interval)
-    }, [])
+    }, [portfolioItems])
 
-
-    const portfolioItems = [
-        {
-            type: "brochure",
-            title: "Eco Product Brochure",
-            client: "GreenTech Solutions",
-            color: "bg-emerald-500",
-        },
-        {
-            type: "cards",
-            title: "Minimalist Business Card",
-            client: "Modern Architects",
-            color: "bg-slate-700",
-        },
-        {
-            type: "greetings",
-            title: "Holiday Greeting Cards",
-            client: "Global Enterprises",
-            color: "bg-red-500",
-        },
-        {
-            type: "social",
-            title: "Instagram Campaign",
-            client: "FashionForward",
-            color: "bg-purple-500",
-        },
-        {
-            type: "catalogue",
-            title: "Product Catalogue",
-            client: "Luxury Homeware",
-            color: "bg-amber-500",
-        },
-        {
-            type: "logo",
-            title: "Tech Company Rebrand",
-            client: "InnovateX",
-            color: "bg-blue-500",
-        },
-        {
-            type: "brochure",
-            title: "Travel Destination Guide",
-            client: "Adventure Tours",
-            color: "bg-cyan-500",
-        },
-        {
-            type: "social",
-            title: "Facebook Ad Campaign",
-            client: "Organic Foods",
-            color: "bg-teal-500",
-        },
-    ]
-
-    const services = [
-        {
-          id: "brochure",
-          title: "Brochure Design",
-          icon: <BookOpen className="text-orange-500" size={32} />,
-          description: "Compelling brochures that communicate your brand story and convert prospects into customers",
-          details: ["Tri-fold brochures", "Bi-fold brochures", "Z-fold designs", "Booklet style", "Digital & print-ready"],
-        },
-        {
-          id: "cards",
-          title: "Business Cards",
-          icon: <CreditCard className="text-orange-500" size={32} />,
-          description: "Memorable business cards that make lasting impressions and showcase your professional identity",
-          details: ["Standard cards", "Folded cards", "Die-cut designs", "Spot UV finish", "Premium materials"],
-        },
-       
-        {
-          id: "social",
-          title: "Social Media",
-          icon: <Instagram className="text-orange-500" size={32} />,
-          description: "Scroll-stopping social media graphics that boost engagement and strengthen your online presence",
-          details: ["Platform-specific sizes", "Post templates", "Story designs", "Profile graphics", "Ad creatives"],
-        },
-        {
-          id: "catalogue",
-          title: "Catalogue Design",
-          icon: <Layout className="text-orange-500" size={32} />,
-          description: "Stunning product catalogues that showcase your offerings with beautiful layouts and typography",
-          details: [
-            "Product catalogues",
-            "Service brochures",
-            "Digital catalogues",
-            "Interactive PDFs",
-            "E-commerce ready",
-          ],
-        },
-        {
-          id: "logo",
-          title: "Logo Design",
-          icon: <Award className="text-orange-500" size={32} />,
-          description: "Distinctive logos and brand identities that capture your essence and build recognition",
-          details: ["Logo concepts", "Brand guidelines", "Icon designs", "Logo variations", "Brand identity systems"],
-        },
-      ]
-
-
-
-
-    const filterPortfolio = (type) => {
-        setActiveTab(type)
+    const filterPortfolio = (category) => {
+        setActiveTab(category)
     }
 
-    const filteredPortfolio =
-        activeTab === "all" ? portfolioItems : portfolioItems.filter((item) => item.type === activeTab)
+    const filteredPortfolio = activeTab === "all" 
+        ? portfolioItems 
+        : portfolioItems.filter((item) => item.type === activeTab)
 
-    return (
-
-
-        <section className="py-20 bg-white mt-28">
-            <div className="container mx-auto px-4">
-                <div className="text-center mb-16">
-                    <h2 className="text-3xl lg:text-4xl font-bold mb-4">Our Portfolio</h2>
-                    <p className="text-slate-600 max-w-2xl mx-auto">
-                        Explore our creative work that has helped brands stand out and connect with their audience.
-                    </p>
-
-                    {/* Filter Tabs */}
-                    <div className="flex flex-wrap justify-center gap-2 mt-8">
-                        <button
-                            onClick={() => filterPortfolio("all")}
-                            className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${activeTab === "all" ? "bg-orange-600 text-white" : "bg-slate-100 text-slate-600 hover:bg-slate-200"}`}
-                        >
-                            All Projects
-                        </button>
-                        {services.map((service) => (
-                            <button
-                                key={service.id}
-                                onClick={() => filterPortfolio(service.id)}
-                                className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${activeTab === service.id ? "bg-orange-600 text-white" : "bg-slate-100 text-slate-600 hover:bg-slate-200"}`}
-                            >
-                                {service.title}
-                            </button>
-                        ))}
+    if (portfolioItems.length === 0) {
+        return (
+            <section className="pt-16">
+                <div className="bg-gradient-to-br from-cyan-50 to-blue-50 py-20">
+                    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                        <div className="text-center">
+                            <h1 className="text-5xl font-bold text-gray-900 mb-6">Our Portfolio</h1>
+                            <p className="text-gray-600">No portfolio items available.</p>
+                        </div>
                     </div>
                 </div>
+            </section>
+        )
+    }
 
-                <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-                    {filteredPortfolio.map((item, index) => (
-                        <div
-                            key={index}
-                            className={`group relative h-64 rounded-xl overflow-hidden shadow-lg ${animateElements ? "transform transition-all duration-700 hover:scale-105" : ""}`}
-                            style={{ transitionDelay: `${index * 100}ms` }}
-                        >
-                            {/* <div
-                                className={`absolute inset-0 ${item.color} opacity-90 group-hover:opacity-100 transition-opacity`}
-                            ></div> */}
-                            <div className="absolute inset-0 bg-cover bg-center mix-blend-overlay">
-                                <img src="/api/placeholder/400/500" alt={item.title} className="w-full h-full object-cover" />
-                            </div>
-                            <div className="absolute inset-0 flex flex-col justify-end p-6 text-white">
-                                <h3 className="text-xl font-bold mb-1">{item.title}</h3>
-                                <p className="opacity-90 text-sm mb-4">{item.client}</p>
-                                <div className="transform translate-y-8 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-300">
-                                    {/* <button className="bg-white text-slate-800 px-4 py-2 rounded-full text-sm font-medium hover:bg-opacity-90 transition-all">
-                                        View Project
-                                    </button> */}
-                                </div>
-                            </div>
+  
+
+    const getCategoryName = (type) => {
+        const service = services.find(s => s.id === type)
+        return service ? service.title : type.charAt(0).toUpperCase() + type.slice(1)
+    }
+
+    return (
+        <main className="pt-16 mt-28">
+            {/* Hero Section */}
+            <section className="bg-gradient-to-br from-orange-50 to-orange-100 py-8">
+                <div className="container mx-auto px-4">
+                    {/* Header */}
+                    <div className="text-center mb-16">
+                        <h2 className="text-4xl lg:text-5xl font-bold mb-6 text-slate-800 leading-tight">
+                            Our  <span className="text-orange-600">Portfolio</span>
+                        </h2>
+                        <p className="text-slate-600 max-w-3xl mx-auto text-lg leading-relaxed">
+                            Explore our diverse collection of creative work that has helped brands stand out, 
+                            connect with their audience, and achieve remarkable results.
+                        </p>
+
+                        {/* Filter Tabs */}
+                        <div className="flex flex-wrap justify-center gap-3 mt-12 mb-8">
+                            <button
+                                onClick={() => filterPortfolio("all")}
+                                className={`group px-6 py-3 rounded-full text-sm font-semibold transition-all duration-300 flex items-center gap-2 ${
+                                    activeTab === "all" 
+                                        ? "bg-orange-600 text-white shadow-lg shadow-orange-600/30 scale-105" 
+                                        : "bg-white text-slate-700 hover:bg-orange-50 hover:text-orange-600 shadow-md hover:shadow-lg border border-slate-200"
+                                }`}
+                            >
+                                <Layout className="w-4 h-4" />
+                                All Projects
+                                <span className={`text-xs px-2 py-1 rounded-full ${
+                                    activeTab === "all" ? "bg-white/20 text-white" : "bg-slate-100 text-slate-500 group-hover:bg-orange-100 group-hover:text-orange-600"
+                                }`}>
+                                    {portfolioItems.length}
+                                </span>
+                            </button>
+                            {services.map((service) => {
+                                const count = portfolioItems.filter(item => item.type === service.id).length
+                                return (
+                                    <button
+                                        key={service.id}
+                                        onClick={() => filterPortfolio(service.id)}
+                                        className={`group px-6 py-3 rounded-full text-sm font-semibold transition-all duration-300 flex items-center gap-2 ${
+                                            activeTab === service.id 
+                                                ? "bg-orange-600 text-white shadow-lg shadow-orange-600/30 scale-105" 
+                                                : "bg-white text-slate-700 hover:bg-orange-50 hover:text-orange-600 shadow-md hover:shadow-lg border border-slate-200"
+                                        }`}
+                                    >
+                                        {service.icon}
+                                        {service.title}
+                                        <span className={`text-xs px-2 py-1 rounded-full ${
+                                            activeTab === service.id ? "bg-white/20 text-white" : "bg-slate-100 text-slate-500 group-hover:bg-orange-100 group-hover:text-orange-600"
+                                        }`}>
+                                            {count}
+                                        </span>
+                                    </button>
+                                )
+                            })}
                         </div>
-                    ))}
+                    </div>
                 </div>
+            </section>
 
-                <div className="mt-12 text-center">
-                    <a href="#" className="text-orange-600 font-medium text-lg hover:underline inline-flex items-center">
-                        {/* View Complete Portfolio <ArrowRightCircle size={20} className="ml-2" /> */}
-                    </a>
+            {/* Portfolio Grid */}
+            <section className="py-20 bg-white">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                    {filteredPortfolio.length === 0 ? (
+                        <div className="text-center py-20">
+                            <div className="text-gray-400 text-6xl mb-4">📁</div>
+                            <h3 className="text-2xl font-semibold text-gray-900 mb-2">No Projects Found</h3>
+                            <p className="text-gray-600">Try selecting a different category to view projects.</p>
+                        </div>
+                    ) : (
+                        <>
+                            <div className="text-center mb-12">
+                                <h2 className="text-3xl font-bold text-gray-900 mb-4">
+                                    {activeTab === "all" ? "All Projects" : `${getCategoryName(activeTab)} Projects`}
+                                </h2>
+                                <p className="text-gray-600">
+                                    Showing {filteredPortfolio.length} project{filteredPortfolio.length !== 1 ? "s" : ""}
+                                    {activeTab !== "all" && ` in ${getCategoryName(activeTab)}`}
+                                </p>
+                            </div>
+
+                            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                                {filteredPortfolio.map((project, index) => (
+                                    <div
+                                        key={project.id || index}
+                                        className={`group overflow-hidden bg-white rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 ${
+                                            selectedDesign === index ? "ring-2 ring-[#17688C] shadow-xl" : ""
+                                        }`}
+                                    >
+                                        <div className="relative overflow-hidden">
+                                            <img
+                                                src={project.image || "/api/placeholder/400/300"}
+                                                alt={project.title}
+                                                className="w-full h-64 object-contain group-hover:scale-110 transition-transform duration-300"
+                                                onError={(e) => {
+                                                    e.target.src = "/api/placeholder/400/300"
+                                                }}
+                                            />
+                                            <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-40 transition-all duration-300"></div>
+                                            
+                                        </div>
+                                        
+                                        <div className="p-6">
+                                            <div className="flex justify-between items-start mb-3">
+                                                <h3 className="text-xl font-semibold text-gray-900 line-clamp-2 flex-1">
+                                                    {project.title}
+                                                </h3>
+                                            </div>
+                                            
+                                            {/* Client name */}
+                                            {project.client && (
+                                                <p className="text-gray-600 text-sm mb-2">
+                                                    Client: {project.client}
+                                                </p>
+                                            )}
+                                            
+                                            {/* Description if available */}
+                                            {project.description && (
+                                                <p className="text-gray-600 text-sm line-clamp-2">
+                                                    {project.description}
+                                                </p>
+                                            )}
+                                            
+                                            {/* Year if available */}
+                                            {project.year && (
+                                                <div className="flex items-center text-sm text-gray-500 mt-2">
+                                                    <span>{project.year}</span>
+                                                </div>
+                                            )}
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </>
+                    )}
                 </div>
-            </div>
-        </section>
+            </section>
+        </main>
     )
 }
 

@@ -309,7 +309,7 @@ export async function POST(request) {
     // Send email to admin
     const { data: adminData, error: adminError } = await resend.emails.send({
       from: "Stall/Booth Request <onboarding@resend.dev>",
-      to: "connect@differentstrokes.in", // Admin email
+      to: "trumpcardworld@gmail.com", // Admin email
       subject: `New Stall Request from ${formData.companyName}`,
       html: generateAdminEmailHtml(formData),
       attachments: [
