@@ -1,6 +1,6 @@
 "use client"
 import Image from 'next/image';
-import React from 'react';
+import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { Palette, Award, Check, Sparkles } from 'lucide-react';
 
@@ -112,7 +112,7 @@ const GraphicDesignAbout = () => {
               />
               
               {/* Experience Badge */}
-              <div className="absolute top-5 right-5 bg-white/90 backdrop-blur-sm p-4 rounded-lg shadow-lg">
+              <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm p-4 rounded-lg shadow-lg">
                 <div className="text-center">
                   <Sparkles className="w-6 h-6 mx-auto mb-2 text-orange-500" />
                   <p className="text-sm font-medium text-gray-600">Creative</p>
@@ -146,9 +146,9 @@ const GraphicDesignAbout = () => {
           <p className="text-xl text-gray-600 mb-6 max-w-2xl mx-auto">
             Ready to elevate your brand with stunning visuals? Let's create something extraordinary together.
           </p>
-          <button className="inline-flex items-center px-8 py-4 bg-orange-500 hover:bg-orange-600 text-white rounded-lg font-semibold transition-colors transform hover:scale-105">
+          <Link href="/graphicdesigning/contact" className="inline-flex items-center px-8 py-4 bg-orange-500 hover:bg-orange-600 text-white rounded-lg font-semibold transition-colors transform hover:scale-105">
             Start Your Design Project
-          </button>
+          </Link>
         </motion.div>
       </div>
     </section>

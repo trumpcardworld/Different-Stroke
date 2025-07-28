@@ -241,11 +241,11 @@ const services = [
                                             </div>
                                             
                                             {/* Client name */}
-                                            {project.client && (
+                                            {/* {project.client && (
                                                 <p className="text-gray-600 text-sm mb-2">
                                                     Client: {project.client}
                                                 </p>
-                                            )}
+                                            )} */}
                                             
                                             {/* Description if available */}
                                             {project.description && (
