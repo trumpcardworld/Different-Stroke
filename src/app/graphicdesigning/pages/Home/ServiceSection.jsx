@@ -14,7 +14,7 @@ const GraphicDesignServices = () => {
     {
       id: 2,
       image: "/images/services/marketing-materials.jpg",
-      title: "Marketing Materials Design",
+      title: "Marketing Collateral Design",
       location: "Print & Digital Collaterals",
       href:"/services/marketing"
     },
