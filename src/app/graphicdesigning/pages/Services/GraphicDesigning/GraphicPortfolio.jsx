@@ -73,7 +73,7 @@ const services = [
     },
     {
         id: "letter-head",
-        title: "Letter Head",
+        title: "Stationery",
         icon: <FileCheck className="w-4 h-4" />
     },
     {
@@ -83,7 +83,7 @@ const services = [
     },
     {
         id: "display-panels-signages",
-        title: "Display Panels & Signages",
+        title: "Display Posters",
         icon: <Monitor className="w-4 h-4" />
     }
 ]
