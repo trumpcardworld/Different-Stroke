@@ -99,7 +99,7 @@ export default function HeroSection() {
                 
                 <div className="pt-4">
                    <Link href='/graphicdesigning/services' className="border-2 border-orange-500 text-orange-500 px-8 py-4 rounded-full hover:bg-orange-50 transition-all">
-                Explore our more services
+                Explore more
               </Link>
                 </div>
               </div>
