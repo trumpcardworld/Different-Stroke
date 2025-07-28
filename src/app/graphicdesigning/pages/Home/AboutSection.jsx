@@ -112,11 +112,11 @@ const GraphicDesignAbout = () => {
               />
               
               {/* Experience Badge */}
-              <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm p-4 rounded-lg shadow-lg">
+              <div className="absolute top-2 right-2 bg-white/90 backdrop-blur-sm p-3 rounded-lg shadow-lg">
                 <div className="text-center">
                   <Sparkles className="w-6 h-6 mx-auto mb-2 text-orange-500" />
                   <p className="text-sm font-medium text-gray-600">Creative</p>
-                  <p className="text-2xl font-bold text-gray-900">Excellence</p>
+                  <p className="text-xl font-bold text-gray-900">Excellence</p>
                 </div>
               </div>
             </div>
