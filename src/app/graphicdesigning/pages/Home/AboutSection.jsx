@@ -94,22 +94,22 @@ const GraphicDesignAbout = () => {
           >
             <div className="relative rounded-2xl overflow-hidden aspect-[4/3] bg-gradient-to-br from-orange-100 to-orange-200">
               {/* Placeholder for design showcase - replace with actual image */}
-              <div className="w-full h-full flex items-center justify-center">
+              {/* <div className="w-full h-full flex items-center justify-center">
                 <div className="text-center space-y-4">
                   <Palette className="w-16 h-16 mx-auto text-orange-500" />
                   <p className="text-orange-600 font-medium">Design Showcase</p>
                   <p className="text-sm text-orange-500">Replace with your portfolio image</p>
                 </div>
-              </div>
+              </div> */}
               
               {/* Alternative: Uncomment this when you have an actual image */}
-              {/* <Image
-                src="/images/graphic-design-showcase.jpg" 
+              <Image
+                src="/images/graphic-design.jpg" 
                 width={1200}
                 height={800}
                 alt="Graphic Design Showcase"
                 className="w-full h-full object-cover"
-              /> */}
+              />
               
               {/* Experience Badge */}
               <div className="absolute top-5 right-5 bg-white/90 backdrop-blur-sm p-4 rounded-lg shadow-lg">
