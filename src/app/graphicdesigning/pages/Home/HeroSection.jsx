@@ -40,7 +40,7 @@ export default function HeroSection() {
                 Start Your Project
                 <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
               </Link>
-              <Link href='/graphicdesigning/portfolio' className="border-2 border-orange-500 text-orange-500 px-8 py-4 rounded-full hover:bg-orange-50 transition-all">
+              <Link href='/graphicdesigning/portfolio' className="border-2 text-center border-orange-500 text-orange-500 px-8 py-4 rounded-full hover:bg-orange-50 transition-all">
                 View Our Work
               </Link>
             </div>
