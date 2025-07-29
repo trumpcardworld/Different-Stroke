@@ -8,21 +8,21 @@ const ServiceSection = () => {
       id: 1,
       image: "/images/Home/biocon.jpg",
       title: "Biocon CPHI Worldwide",
-      location: "2018_Madrid,Spain",
+      location: "Madrid, Spain 2018",
       href:"/exhibition/ourworks/exclusive"
     },
     {
       id: 2,
       image: "/images/Home/gharda.jpg",
       title: "Gharda Chemicals Limited",
-      location: "2017_Shangai,China",
+      location: "Shangai, China 2017",
       href:"/exhibition/ourworks/international"
     },
     {
       id: 3,
       image: "/images/Home/meghmani.jpg",
       title: "Meghmani Finchem Chemspec",
-      location: "2015_Mumbai,India",
+      location: "Mumbai, India 2015",
       href:"/exhibition/ourworks/national"
     },
   ];
@@ -62,18 +62,18 @@ const ServiceSection = () => {
 
               {/* Text content */}
               <div className="text-center px-5">
-                <h3 className="text-2xl font-bold mb-4">
+                <h3 className="text-2xl font-bold mb-2">
                   <a href="#" className="text-[#333029] hover:text-[#666] transition-colors duration-200">
                     {service.title}
                   </a>
                 </h3>
-                <p className="text-gray-600 mb-8">{service.location}</p>
+                <p className="text-gray-600 mb-4">{service.location}</p>
 
                 {/* Read more button */}
                 <div className="relative -mb-[45px]">
                   <a
                     href={service.href}
-                    className="inline-block w-20 h-20 rounded-full bg-[#f6f2eb] hover:bg-[#333029] hover:text-white transition-colors duration-200"
+                    className="inline-block w-12 h-12 rounded-full  bg-orange-100 hover:bg-orange-500 hover:text-white transition-colors duration-200"
                   > 
                     
                     <div className="rotate-180 h-full flex items-center justify-center">

@@ -126,19 +126,7 @@ const AboutSection = () => {
           ))}
         </motion.div>
 
-        {/* Bottom CTA Section */}
-        {/* <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          className="mt-16 text-center"
-        >
-          <p className="text-xl text-gray-600 mb-6 max-w-2xl mx-auto">
-            Ready to transform your space? Let's create something extraordinary together.
-          </p>
-          <button className="inline-flex items-center px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold transition-colors">
-            Schedule a Consultation
-          </button>
-        </motion.div> */}
+        
       </div>
     </section>
   );
