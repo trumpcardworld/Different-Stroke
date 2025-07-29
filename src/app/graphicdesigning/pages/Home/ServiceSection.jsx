@@ -50,8 +50,6 @@ const GraphicDesignServices = () => {
               {/* Image container */}
               <div className="relative -mt-5 mb-3 overflow-hidden rounded-lg">
                 <div className="aspect-w-16 aspect-h-12">
-             
-                  {/* Alternative: Uncomment when you have actual images */}
                   <Image
                     src={service.image}
                     alt={service.title}
