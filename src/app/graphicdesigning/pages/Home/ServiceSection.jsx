@@ -9,21 +9,21 @@ const GraphicDesignServices = () => {
       image: "/images/Home/brand-identity.jpg",
       title: "Brand Identity & Logo Design",
       location: "Complete Visual Identity Solutions",
-      href:"/services/branding"
+      href:"/graphicdesigning/portfolio"
     },
     {
       id: 2,
       image: "/images/Home/marketing-collateral.jpg",
       title: "Marketing Collateral Design",
       location: "Print & Digital Collaterals",
-      href:"/services/marketing"
+      href:"/graphicdesigning/portfolio"
     },
     {
       id: 3,
       image: "/images/Home/packaging-design.jpg",
       title: "Packaging & Product Design",
       location: "Creative Product Solutions",
-      href:"/services/packaging"
+      href:"/graphicdesigning/portfolio"
     },
   ];
 
