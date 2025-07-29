@@ -72,7 +72,7 @@ const GraphicPortfolio = () => {
     },
     {
       id: "letter-head",
-      title: "Stationery",
+      title: "Stationary",
       icon: <FileCheck className="w-4 h-4" />,
     },
     {

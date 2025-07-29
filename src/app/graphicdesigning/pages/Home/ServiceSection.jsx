@@ -6,21 +6,21 @@ const GraphicDesignServices = () => {
   const services = [
     {
       id: 1,
-      image: "/images/services/brand-identity.jpg",
+      image: "/images/Home/brand-identity.jpg",
       title: "Brand Identity & Logo Design",
       location: "Complete Visual Identity Solutions",
       href:"/services/branding"
     },
     {
       id: 2,
-      image: "/images/services/marketing-materials.jpg",
+      image: "/images/Home/marketing-collateral.jpg",
       title: "Marketing Collateral Design",
       location: "Print & Digital Collaterals",
       href:"/services/marketing"
     },
     {
       id: 3,
-      image: "/images/services/packaging-design.jpg",
+      image: "/images/Home/packaging-design.jpg",
       title: "Packaging & Product Design",
       location: "Creative Product Solutions",
       href:"/services/packaging"
@@ -51,25 +51,16 @@ const GraphicDesignServices = () => {
               <div className="relative -mt-5 mb-6 overflow-hidden rounded-lg">
                 <div className="aspect-w-16 aspect-h-12">
                   {/* Placeholder for service images - replace with actual images */}
-                  <div className="w-full h-48 bg-gradient-to-br from-orange-100 to-orange-200 flex items-center justify-center rounded-lg">
-                    <div className="text-center">
-                      <div className="w-12 h-12 mx-auto mb-2 bg-orange-500 rounded-lg flex items-center justify-center">
-                        <span className="text-white text-xl">
-                          {service.id === 1 ? "🎨" : service.id === 2 ? "📊" : "📦"}
-                        </span>
-                      </div>
-                      <p className="text-orange-600 text-sm">Service Image</p>
-                    </div>
-                  </div>
+                  
                   
                   {/* Alternative: Uncomment when you have actual images */}
-                  {/* <Image
+                  <Image
                     src={service.image}
                     alt={service.title}
                     width={1200}
                     height={800}
                     className="w-full h-full object-cover transform transition-transform duration-700 group-hover:scale-110"
-                  /> */}
+                  />
                 </div>
               </div>
 
@@ -80,13 +71,13 @@ const GraphicDesignServices = () => {
                     {service.title}
                   </a>
                 </h3>
-                <p className="text-gray-600 mb-8">{service.location}</p>
+                <p className="text-gray-600 mb-6">{service.location}</p>
 
                 {/* Read more button */}
-                <div className="relative -mb-[45px]">
+                <div className="relative -mb-[0px]">
                   <a
                     href={service.href}
-                    className="inline-block w-20 h-20 rounded-full bg-orange-50 hover:bg-orange-500 hover:text-white transition-all duration-200 transform hover:scale-105"
+                    className="inline-block w-12 h-12 rounded-full bg-orange-100 hover:bg-orange-500 hover:text-white transition-all duration-200 transform hover:scale-105"
                   > 
                     
                     <div className="rotate-180 h-full flex items-center justify-center">

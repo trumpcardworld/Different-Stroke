@@ -42,8 +42,8 @@ const AboutSection = () => {
           >
             <div className="aspect-[4/3] rounded-2xl overflow-hidden">
               <Image 
-                src="/images/exhibition-about.jpg" 
-                alt="Team at work"
+                src="/ourwork/international/2019/China coat -2019/Meghmani/1.jpg" 
+                alt="stall"
                 width={1200}
                 height={800}
                 className="w-full h-full object-cover"
