@@ -1,69 +1,45 @@
 {
     "portfolioItems": [
+       
         {
-            "type": "annual-reports",
-            "title": "Gujarat State Electricity Corporation",
-            "image": "/ourwork/Graphic/Annual Reports/GSEC.jpg"
+            "type": "invitation-greeting-cards",
+            "title": "Swagatam",
+            "image": "/ourwork/Graphic/Invitation Card/IndexTb Front-N.jpg"
         },
         {
-            "type": "annual-reports",
-            "title": "Kalptaru Papers Ltd.",
-            "image": "/ourwork/Graphic/Annual Reports/Kalptaru.jpg"
-        },
-        {
-            "type": "annual-reports",
-            "title": "Ratnamani Metal & Tubes Ltd.",
-            "image": "/ourwork/Graphic/Annual Reports/Ratnamani.jpg"
-        },
-        {
-            "type": "annual-reports",
-            "title": "Ratnamani Metal & Tubes Ltd.",
-            "image": "/ourwork/Graphic/Annual Reports/Ratnamani-2.jpg"
+            "type": "news-magazine",
+            "title": "Zydus Lifesciences",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vo7 Oct-Jan-09.jpg"
         },
         {
             "type": "brochures-catalogues",
-            "title": "Gujarat State Electricity Corporation",
-            "image": "/ourwork/Graphic/Brochures-catalogues/01.jpg"
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Brochures-catalogues/27.jpg"
         },
         {
-            "type": "brochures-catalogues",
-            "title": "Gujarat State Petroleum Corporation",
-            "image": "/ourwork/Graphic/Brochures-catalogues/02.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Hi Tech",
-            "image": "/ourwork/Graphic/Brochures-catalogues/03.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Neoplast Engineering Pvt. Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/04.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Neoplast Engineering Pvt. Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/05.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Ratnamani Metal & Tubes Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/06.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
+            "type": "display-panels-signages",
             "title": "Sachin Industries Ltd ",
-            "image": "/ourwork/Graphic/Brochures-catalogues/07.jpg"
+            "image": "/ourwork/Graphic/Display Panels & Signages/Pannels Profile_2' x 3'.jpg"
         },
         {
-            "type": "brochures-catalogues",
-            "title": "Tamboli Castings Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/08.jpg"
+            "type": "advertisement-campaigns",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 255H x 190W mm-2.jpg"
         },
         {
-            "type": "brochures-catalogues",
-            "title": "Gujarat Science City",
-            "image": "/ourwork/Graphic/Brochures-catalogues/09.jpg"
+            "type": "corporate-folders",
+            "title": "Indo German Tool Room",
+            "image": "/ourwork/Graphic/Corporate-Folders/IGTR.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "GSEC Logistics Ltd.",
+            "image": "/ourwork/Graphic/Letter Head/GSEC.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Zydus Lifesciences",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-6 March-08.jpg"
         },
         {
             "type": "brochures-catalogues",
@@ -72,119 +48,13 @@
         },
         {
             "type": "brochures-catalogues",
-            "title": "Accurpress",
-            "image": "/ourwork/Graphic/Brochures-catalogues/11.jpg"
+            "title": "Gujarat Science City",
+            "image": "/ourwork/Graphic/Brochures-catalogues/09.jpg"
         },
-        {
-            "type": "brochures-catalogues",
-            "title": "Dura Exports Pvt Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/12.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Dura Group",
-            "image": "/ourwork/Graphic/Brochures-catalogues/13.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Dura Group",
-            "image": "/ourwork/Graphic/Brochures-catalogues/14.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Gujarat Energy Development Agency",
-            "image": "/ourwork/Graphic/Brochures-catalogues/15.jpg"
-        },
-   
-        {
-            "type": "brochures-catalogues",
-            "title": "Investment & Precision Castings Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/17.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Indian Society of Cardiology",
-            "image": "/ourwork/Graphic/Brochures-catalogues/18.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Kalptaru Infosoft Pvt Ltd",
-            "image": "/ourwork/Graphic/Brochures-catalogues/19.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "JSIW Infrastructure Pvt. Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/20.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Brochures-catalogues/21.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Swiss Super Finishing Technologies",
-            "image": "/ourwork/Graphic/Brochures-catalogues/22.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Indian Society of Cardiology",
-            "image": "/ourwork/Graphic/Brochures-catalogues/23.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Indian Society of Cardiology",
-            "image": "/ourwork/Graphic/Brochures-catalogues/24.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Brochures-catalogues/25.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Alumax Aluminium Panel",
-            "image": "/ourwork/Graphic/Brochures-catalogues/26.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Brochures-catalogues/27.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Indo German Tool Room",
-            "image": "/ourwork/Graphic/Brochures-catalogues/28.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Gujarat Chemical Association",
-            "image": "/ourwork/Graphic/Brochures-catalogues/29.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "London Test Centre",
-            "image": "/ourwork/Graphic/Brochures-catalogues/30.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "National Endovascular Workshop",
-            "image": "/ourwork/Graphic/Brochures-catalogues/31.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Visamo Kids",
-            "image": "/ourwork/Graphic/Brochures-catalogues/32.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Quippo",
-            "image": "/ourwork/Graphic/Brochures-catalogues/33.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Master Class Plywood",
-            "image": "/ourwork/Graphic/Brochures-catalogues/34.jpg"
+         {
+            "type": "invitation-greeting-cards",
+            "title": "Gujarat Pavilion",
+            "image": "/ourwork/Graphic/Invitation Card/IITF Final Invitation card Nov 2008-1.jpg"
         },
         {
             "type": "brochures-catalogues",
@@ -192,254 +62,19 @@
             "image": "/ourwork/Graphic/Brochures-catalogues/35.jpg"
         },
         {
-            "type": "brochures-catalogues",
-            "title": "Mieco Plywood",
-            "image": "/ourwork/Graphic/Brochures-catalogues/36.jpg"
+            "type": "display-panels-signages",
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 6.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Vibrant Gujarat Global Investor Summit",
+            "image": "/ourwork/Graphic/Display Panels & Signages/003 Vibrant Gujarat.jpg"
         },
         {
             "type": "brochures-catalogues",
-            "title": "Spartan Plywood",
-            "image": "/ourwork/Graphic/Brochures-catalogues/37.jpg"
-        },
-        {
-            "type": "brochures-catalogues",
-            "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Brochures-catalogues/38.jpg"
-        },
-        {
-            "type": "business-directories",
-            "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_1.jpg"
-        },
-        {
-            "type": "business-directories",
-            "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_2.jpg"
-        },
-        {
-            "type": "business-directories",
-            "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_3.jpg"
-        },
-        {
-            "type": "business-directories",
-            "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_4.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Ratnamani Metal & Tubes Ltd.",
-            "image": "/ourwork/Graphic/Corporate Identity/Final 25 Years Silver Jubilee.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Gujarat Media Club",
-            "image": "/ourwork/Graphic/Corporate Identity/GMC.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Hiloni Stock Broking Pvt. Ltd.",
-            "image": "/ourwork/Graphic/Corporate Identity/Hiloni Stock Broking.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Neoplast Engineering Pvt. Ltd.",
-            "image": "/ourwork/Graphic/Corporate Identity/Neoplast.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Corporate Identity/Pathway.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Physical Research Laboratory",
-            "image": "/ourwork/Graphic/Corporate Identity/PRL 60 Years Logo.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Sachin Industries Ltd ",
-            "image": "/ourwork/Graphic/Corporate Identity/Sachin Filtech.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Swiss Super Finishing Technologies",
-            "image": "/ourwork/Graphic/Corporate Identity/Swiss.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Tamboli Castings Ltd.",
-            "image": "/ourwork/Graphic/Corporate Identity/TCL.jpg"
-        },
-        {
-            "type": "corporate-identity",
-            "title": "Urja Setu",
-            "image": "/ourwork/Graphic/Corporate Identity/Urja Setu.jpg"
-        },
-        {
-            "type": "corporate-folders",
-            "title": "Indo German Tool Room",
-            "image": "/ourwork/Graphic/Corporate-Folders/IGTR.jpg"
-        },
-        {
-            "type": "corporate-folders",
-            "title": "Shashwat Hospital & Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Corporate-Folders/MOL & Shashwat.jpg"
-        },
-        {
-            "type": "corporate-folders",
-            "title": "Neoplast Engineering Pvt. Ltd.",
-            "image": "/ourwork/Graphic/Corporate-Folders/Neoplast.jpg"
-        },
-        {
-            "type": "corporate-folders",
-            "title": "Parekhs Hospital",
-            "image": "/ourwork/Graphic/Corporate-Folders/Parekhs Hospital.jpg"
-        },
-        {
-            "type": "corporate-folders",
-            "title": "Ratnamani Metal & Tubes Ltd.",
-            "image": "/ourwork/Graphic/Corporate-Folders/Ratnamani.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Invitation Card/Diwali Greetings (D) Outer.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Gujarat Pavilion",
-            "image": "/ourwork/Graphic/Invitation Card/Gujarat Pavilion.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Gujarat Day Celebrations",
-            "image": "/ourwork/Graphic/Invitation Card/Gujaratday Invitation A4 front-1.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Gujarat Pavilion",
-            "image": "/ourwork/Graphic/Invitation Card/IITF Final Invitation card Nov 2008-1.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Swagatam",
-            "image": "/ourwork/Graphic/Invitation Card/IndexTb Front-N.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Gujarat Maritime Board",
-            "image": "/ourwork/Graphic/Invitation Card/Invitation Card Title & Back-1.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Pravasi Bharatiya Divas",
-            "image": "/ourwork/Graphic/Invitation Card/Invitation card-1.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Gujarat Day Celebrations",
-            "image": "/ourwork/Graphic/Invitation Card/Invitation Gujarat Day_frontside.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Vaishnodevi Refoils & Solvex",
-            "image": "/ourwork/Graphic/Invitation Card/Invitation_Afront.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Plexpo",
-            "image": "/ourwork/Graphic/Invitation Card/invitation_F.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Swagatam",
-            "image": "/ourwork/Graphic/Invitation Card/Page-001.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Rotary Shares",
-            "image": "/ourwork/Graphic/Invitation Card/Rotary Shares Invitation Card.jpg"
-        },
-        {
-            "type": "invitation-greeting-cards",
-            "title": "Shashwat Hospital",
-            "image": "/ourwork/Graphic/Invitation Card/Shashwat Hospital.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Physical Research Laboratory",
-            "image": "/ourwork/Graphic/News Magazines/PRL/Jan 2007 Vol-22.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Physical Research Laboratory",
-            "image": "/ourwork/Graphic/News Magazines/PRL/Jan 2008 Vol-22.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Physical Research Laboratory",
-            "image": "/ourwork/Graphic/News Magazines/PRL/March 2009 Vol-24.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Physical Research Laboratory",
-            "image": "/ourwork/Graphic/News Magazines/PRL/Sep 2008 Vol-23.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Urja Setu",
-            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_1.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Urja Setu",
-            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_2.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Urja Setu",
-            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_3.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Urja Setu",
-            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_4.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Urja Setu",
-            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_5.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Urja Setu",
-            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_6.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Zydus Lifesciences",
-            "image": "/ourwork/Graphic/News Magazines/Zydus/Vo7 Oct-Jan-09.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Zydus Lifesciences",
-            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-6 Dec-07.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Zydus Lifesciences",
-            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-6 March-08.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Zydus Lifesciences",
-            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-7 Apr-Jun-08.jpg"
-        },
-        {
-            "type": "news-magazine",
-            "title": "Zydus Lifesciences",
-            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-8 Apr-June-09.jpg"
+            "title": "Visamo Kids",
+            "image": "/ourwork/Graphic/Brochures-catalogues/32.jpg"
         },
         {
             "type": "speech-books",
@@ -447,14 +82,44 @@
             "image": "/ourwork/Graphic/Speech Books/Speech Book_1.jpg"
         },
         {
-            "type": "speech-books",
-            "title": "Hon'ble Chief Minister of Gujarat Speech Book",
-            "image": "/ourwork/Graphic/Speech Books/Speech Book_2.jpg"
+            "type": "brochures-catalogues",
+            "title": "Mieco Plywood",
+            "image": "/ourwork/Graphic/Brochures-catalogues/36.jpg"
         },
         {
-            "type": "speech-books",
-            "title": "Hon'ble Chief Minister of Gujarat Speech Book",
-            "image": "/ourwork/Graphic/Speech Books/Speech Book_3.jpg"
+            "type": "display-panels-signages",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Rightside Panel Page A4 Landscap-2.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Quippo",
+            "image": "/ourwork/Graphic/Brochures-catalogues/33.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Clostenol-Depot.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Shashwat Hospital & Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Corporate-Folders/MOL & Shashwat.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Gujarat Media Club",
+            "image": "/ourwork/Graphic/Corporate Identity/GMC.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Swiss Super Finishing Technologies",
+            "image": "/ourwork/Graphic/Brochures-catalogues/22.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Zydus Lifesciences",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-7 Apr-Jun-08.jpg"
         },
         {
             "type": "speech-books",
@@ -462,64 +127,34 @@
             "image": "/ourwork/Graphic/Speech Books/Speech Book_4.jpg"
         },
         {
-            "type": "speech-books",
-            "title": "Hon'ble Chief Minister of Gujarat Speech Book",
-            "image": "/ourwork/Graphic/Speech Books/Speech Book_5.jpg"
+            "type": "display-panels-signages",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Centre Panel 12x18.jpg"
         },
         {
-            "type": "letter-head",
-            "title": "Aaditya Corporation",
-            "image": "/ourwork/Graphic/Letter Head/Aaditya.jpg"
-        },
-        {
-            "type": "letter-head",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Letter Head/Chemietron.jpg"
-        },
-        {
-            "type": "letter-head",
-            "title": "Clartech Industries",
-            "image": "/ourwork/Graphic/Letter Head/Clartech Industries.jpg"
-        },
-        {
-            "type": "letter-head",
-            "title": "GSEC Logistics Ltd.",
-            "image": "/ourwork/Graphic/Letter Head/GSEC.jpg"
-        },
-        {
-            "type": "letter-head",
-            "title": "M P Financial Services",
-            "image": "/ourwork/Graphic/Letter Head/M P Financial.jpg"
-        },
-        {
-            "type": "letter-head",
+            "type": "corporate-identity",
             "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Letter Head/Pathway.jpg"
+            "image": "/ourwork/Graphic/Corporate Identity/Pathway.jpg"
         },
         {
-            "type": "letter-head",
-            "title": "Ratnamani Metal & Tubes Ltd.",
-            "image": "/ourwork/Graphic/Letter Head/Ratnamani.jpg"
-        },
-        {
-            "type": "letter-head",
-            "title": "Umashankar Sharma & Associates",
-            "image": "/ourwork/Graphic/Letter Head/Umashankar Sharma.jpg"
-        },
-        {
-            "type": "advertisement-campaigns",
-            "title": "Accurpress",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Accurpress colour qtr page.jpg"
-        },
-        {
-            "type": "advertisement-campaigns",
+            "type": "display-panels-signages",
             "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/advs_190x255mmFinal.jpg"
+            "image": "/ourwork/Graphic/Display Panels & Signages/Zobid plus-oxalgin-P.jpg"
         },
         {
-            "type": "advertisement-campaigns",
+            "type": "display-panels-signages",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 4.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Indian Society of Cardiology",
+            "image": "/ourwork/Graphic/Brochures-catalogues/24.jpg"
+        },
+        {
+            "type": "business-directories",
             "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Advt 12 x 15 cms.jpg"
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_3.jpg"
         },
         {
             "type": "advertisement-campaigns",
@@ -527,39 +162,19 @@
             "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 23-5 x 25.jpg"
         },
         {
-            "type": "advertisement-campaigns",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 34cm X 48cm.jpg"
+            "type": "display-panels-signages",
+            "title": "Pathway Group",
+            "image": "/ourwork/Graphic/Display Panels & Signages/banner-2.jpg"
         },
         {
-            "type": "advertisement-campaigns",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 255H x 190W mm-2.jpg"
+            "type": "corporate-identity",
+            "title": "Urja Setu",
+            "image": "/ourwork/Graphic/Corporate Identity/Urja Setu.jpg"
         },
         {
-            "type": "advertisement-campaigns",
-            "title": "Ratnamani Metal & Tubes Ltd.",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Concept-2.jpg"
-        },
-        {
-            "type": "advertisement-campaigns",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/ISOLATOR AD 33 X 23.5 cm hi res.jpg"
-        },
-        {
-            "type": "advertisement-campaigns",
-            "title": "Siddheshwari Industries",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/magazine_ad_W-17 x H-22 cm.jpg"
-        },
-        {
-            "type": "advertisement-campaigns",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Meghmani_1.jpg"
-        },
-        {
-            "type": "advertisement-campaigns",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Meghmani_3.jpg"
+            "type": "brochures-catalogues",
+            "title": "Master Class Plywood",
+            "image": "/ourwork/Graphic/Brochures-catalogues/34.jpg"
         },
         {
             "type": "advertisement-campaigns",
@@ -567,14 +182,119 @@
             "image": "/ourwork/Graphic/Advertisiment campaigns/profile_advertisement.jpg"
         },
         {
-            "type": "advertisement-campaigns",
-            "title": "Quippo",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Quippo.jpg"
+            "type": "display-panels-signages",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/blue panel.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/red panel 254.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Plexpo",
+            "image": "/ourwork/Graphic/Display Panels & Signages/8' x 3' Banner.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Letter Head/Chemietron.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Physical Research Laboratory",
+            "image": "/ourwork/Graphic/News Magazines/PRL/Sep 2008 Vol-23.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Shashwat Hospital",
+            "image": "/ourwork/Graphic/Invitation Card/Shashwat Hospital.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Spartan Plywood",
+            "image": "/ourwork/Graphic/Brochures-catalogues/37.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Ratnamani Metal & Tubes Ltd.",
+            "image": "/ourwork/Graphic/Corporate-Folders/Ratnamani.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Hiloni Stock Broking Pvt. Ltd.",
+            "image": "/ourwork/Graphic/Corporate Identity/Hiloni Stock Broking.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Zydus Lifesciences",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-6 Dec-07.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Neoplast Engineering Pvt. Ltd.",
+            "image": "/ourwork/Graphic/Corporate-Folders/Neoplast.jpg"
         },
         {
             "type": "advertisement-campaigns",
-            "title": "Lalsons Plyboard Pvt. Ltd.",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Red chilli ADVT-1.jpg"
+            "title": "Siddheshwari Industries",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/magazine_ad_W-17 x H-22 cm.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Zydus Lifesciences",
+            "image": "/ourwork/Graphic/News Magazines/Zydus/Vol-8 Apr-June-09.jpg"
+        },
+        {
+            "type": "business-directories",
+            "title": "Pathway Group",
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_4.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Alpafast",
+            "image": "/ourwork/Graphic/Display Panels & Signages/red panle 122.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Alumax Aluminium Panel",
+            "image": "/ourwork/Graphic/Brochures-catalogues/26.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Plexpo",
+            "image": "/ourwork/Graphic/Invitation Card/invitation_F.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Swiss Super Finishing Technologies",
+            "image": "/ourwork/Graphic/Display Panels & Signages/panels-3.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Urja Setu",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_3.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Indian Society of Cardiology",
+            "image": "/ourwork/Graphic/Brochures-catalogues/23.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/advs_190x255mmFinal.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/banner A4.jpg"
+        },
+        {
+            "type": "annual-reports",
+            "title": "Gujarat State Electricity Corporation",
+            "image": "/ourwork/Graphic/Annual Reports/GSEC.jpg"
         },
         {
             "type": "advertisement-campaigns",
@@ -583,8 +303,108 @@
         },
         {
             "type": "advertisement-campaigns",
-            "title": "Universal Colorant ",
-            "image": "/ourwork/Graphic/Advertisiment campaigns/Universal.jpg"
+            "title": "Ratnamani Metal & Tubes Ltd.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Concept-2.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Dura Exports Pvt Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/12.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Invitation Card/Diwali Greetings (D) Outer.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Tamboli Castings Ltd.",
+            "image": "/ourwork/Graphic/Corporate Identity/TCL.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Swiss Super Finishing Technologies",
+            "image": "/ourwork/Graphic/Display Panels & Signages/panels-2.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Accurpress",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Accurpress colour qtr page.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Dura Group",
+            "image": "/ourwork/Graphic/Brochures-catalogues/13.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Swiss Super Finishing Technologies",
+            "image": "/ourwork/Graphic/Display Panels & Signages/panels-8.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "JSIW Infrastructure Pvt. Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/20.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Neoplast Engineering Pvt. Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/05.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Pathway Group",
+            "image": "/ourwork/Graphic/Letter Head/Pathway.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Rotary Shares",
+            "image": "/ourwork/Graphic/Invitation Card/Rotary Shares Invitation Card.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Gujarat Pavilion",
+            "image": "/ourwork/Graphic/Invitation Card/Gujarat Pavilion.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Neoplast Engineering Pvt. Ltd.",
+            "image": "/ourwork/Graphic/Corporate Identity/Neoplast.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Indian Society of Cardiology",
+            "image": "/ourwork/Graphic/Brochures-catalogues/18.jpg"
+        },
+        {
+            "type": "annual-reports",
+            "title": "Ratnamani Metal & Tubes Ltd.",
+            "image": "/ourwork/Graphic/Annual Reports/Ratnamani-2.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Zycloz-Biobloom.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Neoplast Engineering Pvt. Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/04.jpg"
+        },
+        {
+            "type": "business-directories",
+            "title": "Pathway Group",
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_2.jpg"
+        },
+        {
+            "type": "annual-reports",
+            "title": "Kalptaru Papers Ltd.",
+            "image": "/ourwork/Graphic/Annual Reports/Kalptaru.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Dura Group",
+            "image": "/ourwork/Graphic/Brochures-catalogues/14.jpg"
         },
         {
             "type": "advertisement-campaigns",
@@ -597,19 +417,154 @@
             "image": "/ourwork/Graphic/Display Panels & Signages/001-6x6.jpg"
         },
         {
-            "type": "display-panels-signages",
-            "title": "Vibrant Gujarat Global Investor Summit",
-            "image": "/ourwork/Graphic/Display Panels & Signages/003 Vibrant Gujarat.jpg"
+            "type": "invitation-greeting-cards",
+            "title": "Gujarat Day Celebrations",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation Gujarat Day_frontside.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Investment & Precision Castings Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/17.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Chemietron Advt 34cm X 48cm.jpg"
         },
         {
             "type": "display-panels-signages",
-            "title": "Plexpo",
-            "image": "/ourwork/Graphic/Display Panels & Signages/8' x 3' Banner.jpg"
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 5.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Pravasi Bharatiya Divas",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation card-1.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Gujarat Energy Development Agency",
+            "image": "/ourwork/Graphic/Brochures-catalogues/15.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Quippo",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Quippo.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Gujarat State Electricity Corporation",
+            "image": "/ourwork/Graphic/Brochures-catalogues/01.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "National Endovascular Workshop",
+            "image": "/ourwork/Graphic/Brochures-catalogues/31.jpg"
+        },
+        {
+            "type": "business-directories",
+            "title": "Pathway Group",
+            "image": "/ourwork/Graphic/Business Directories/Pathway Directory_1.jpg"
         },
         {
             "type": "display-panels-signages",
-            "title": "E-Governance",
-            "image": "/ourwork/Graphic/Display Panels & Signages/011 E-Governance.jpg"
+            "title": "Plastics in Life",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Education.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/ISOLATOR AD 33 X 23.5 cm hi res.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/yellow panle.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Physical Research Laboratory",
+            "image": "/ourwork/Graphic/Corporate Identity/PRL 60 Years Logo.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Urja Setu",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_6.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Kalptaru Infosoft Pvt Ltd",
+            "image": "/ourwork/Graphic/Brochures-catalogues/19.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Homefood-Panel.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Lalsons Plyboard Pvt. Ltd.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Red chilli ADVT-1.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Sachin Industries Ltd ",
+            "image": "/ourwork/Graphic/Brochures-catalogues/07.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Swagatam",
+            "image": "/ourwork/Graphic/Invitation Card/Page-001.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Umashankar Sharma & Associates",
+            "image": "/ourwork/Graphic/Letter Head/Umashankar Sharma.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Hi Tech",
+            "image": "/ourwork/Graphic/Brochures-catalogues/03.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Urja Setu",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_5.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 1.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Sachin Industries Ltd ",
+            "image": "/ourwork/Graphic/Corporate Identity/Sachin Filtech.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 2.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Vaishnodevi Refoils & Solvex",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation_Afront.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Ratnamani Metal & Tubes Ltd.",
+            "image": "/ourwork/Graphic/Corporate Identity/Final 25 Years Silver Jubilee.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Accurpress",
+            "image": "/ourwork/Graphic/Brochures-catalogues/11.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Hon'ble Chief Minister of Gujarat Speech Book",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_5.jpg"
         },
         {
             "type": "display-panels-signages",
@@ -617,34 +572,149 @@
             "image": "/ourwork/Graphic/Display Panels & Signages/012 Urban Life upgradation.jpg"
         },
         {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/banner A4.jpg"
+            "type": "letter-head",
+            "title": "Aaditya Corporation",
+            "image": "/ourwork/Graphic/Letter Head/Aaditya.jpg"
         },
         {
-            "type": "display-panels-signages",
+            "type": "news-magazine",
+            "title": "Urja Setu",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_2.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "London Test Centre",
+            "image": "/ourwork/Graphic/Brochures-catalogues/30.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
             "title": "Pathway Group",
-            "image": "/ourwork/Graphic/Display Panels & Signages/banner-2.jpg"
+            "image": "/ourwork/Graphic/Brochures-catalogues/38.jpg"
+        },
+        {
+            "type": "corporate-identity",
+            "title": "Swiss Super Finishing Technologies",
+            "image": "/ourwork/Graphic/Corporate Identity/Swiss.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Gujarat State Petroleum Corporation",
+            "image": "/ourwork/Graphic/Brochures-catalogues/02.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "M P Financial Services",
+            "image": "/ourwork/Graphic/Letter Head/M P Financial.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/25.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Physical Research Laboratory",
+            "image": "/ourwork/Graphic/News Magazines/PRL/Jan 2008 Vol-22.jpg"
         },
         {
             "type": "display-panels-signages",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/blue panel.jpg"
+            "title": "Chemietron",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Penal 3.jpg"
         },
         {
-            "type": "display-panels-signages",
+            "type": "speech-books",
+            "title": "Hon'ble Chief Minister of Gujarat Speech Book",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_2.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
             "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Centre Panel 12x18.jpg"
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Meghmani_1.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Tamboli Castings Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/08.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Pathway Group",
+            "image": "/ourwork/Graphic/Brochures-catalogues/21.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Ratnamani Metal & Tubes Ltd.",
+            "image": "/ourwork/Graphic/Brochures-catalogues/06.jpg"
         },
         {
             "type": "display-panels-signages",
             "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Clostenol-Depot.jpg"
+            "image": "/ourwork/Graphic/Display Panels & Signages/Panel_01 Mission Popup Stand Final.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Gujarat Chemical Association",
+            "image": "/ourwork/Graphic/Brochures-catalogues/29.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Meghmani_3.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Meghmani Organics Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Quality Control lab.jpg"
+        },
+        {
+            "type": "annual-reports",
+            "title": "Ratnamani Metal & Tubes Ltd.",
+            "image": "/ourwork/Graphic/Annual Reports/Ratnamani.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Urja Setu",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_1.jpg"
+        },
+        {
+            "type": "speech-books",
+            "title": "Hon'ble Chief Minister of Gujarat Speech Book",
+            "image": "/ourwork/Graphic/Speech Books/Speech Book_3.jpg"
+        },
+        {
+            "type": "invitation-greeting-cards",
+            "title": "Gujarat Maritime Board",
+            "image": "/ourwork/Graphic/Invitation Card/Invitation Card Title & Back-1.jpg"
         },
         {
             "type": "display-panels-signages",
             "title": "Meghmani Organics Ltd.",
             "image": "/ourwork/Graphic/Display Panels & Signages/Company Details.jpg"
+        },
+        {
+            "type": "corporate-folders",
+            "title": "Parekhs Hospital",
+            "image": "/ourwork/Graphic/Corporate-Folders/Parekhs Hospital.jpg"
+        },
+        {
+            "type": "brochures-catalogues",
+            "title": "Indo German Tool Room",
+            "image": "/ourwork/Graphic/Brochures-catalogues/28.jpg"
+        },
+        {
+            "type": "advertisement-campaigns",
+            "title": "Universal Colorant ",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Universal.jpg"
+        },
+        {
+            "type": "display-panels-signages",
+            "title": "Zydus Animal Health Ltd.",
+            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 4.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Clartech Industries",
+            "image": "/ourwork/Graphic/Letter Head/Clartech Industries.jpg"
         },
         {
             "type": "display-panels-signages",
@@ -653,13 +723,33 @@
         },
         {
             "type": "display-panels-signages",
-            "title": "Plastics in Life",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Education.jpg"
+            "title": "E-Governance",
+            "image": "/ourwork/Graphic/Display Panels & Signages/011 E-Governance.jpg"
         },
         {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Homefood-Panel.jpg"
+            "type": "invitation-greeting-cards",
+            "title": "Gujarat Day Celebrations",
+            "image": "/ourwork/Graphic/Invitation Card/Gujaratday Invitation A4 front-1.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Physical Research Laboratory",
+            "image": "/ourwork/Graphic/News Magazines/PRL/Jan 2007 Vol-22.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Physical Research Laboratory",
+            "image": "/ourwork/Graphic/News Magazines/PRL/March 2009 Vol-24.jpg"
+        },
+        {
+            "type": "news-magazine",
+            "title": "Urja Setu",
+            "image": "/ourwork/Graphic/News Magazines/Urja/Urja Setu_4.jpg"
+        },
+        {
+            "type": "letter-head",
+            "title": "Ratnamani Metal & Tubes Ltd.",
+            "image": "/ourwork/Graphic/Letter Head/Ratnamani.jpg"
         },
         {
             "type": "display-panels-signages",
@@ -667,99 +757,9 @@
             "image": "/ourwork/Graphic/Display Panels & Signages/Meghmani_2.jpg"
         },
         {
-            "type": "display-panels-signages",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 1.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 2.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Panel 4.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Panel_01 Mission Popup Stand Final.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Swiss Super Finishing Technologies",
-            "image": "/ourwork/Graphic/Display Panels & Signages/panels-2.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Swiss Super Finishing Technologies",
-            "image": "/ourwork/Graphic/Display Panels & Signages/panels-3.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Swiss Super Finishing Technologies",
-            "image": "/ourwork/Graphic/Display Panels & Signages/panels-8.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Sachin Industries Ltd ",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Pannels Profile_2' x 3'.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Chemietron",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Penal 3.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 4.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 5.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Poultry panel 6.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Quality Control lab.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/red panel 254.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Alpafast",
-            "image": "/ourwork/Graphic/Display Panels & Signages/red panle 122.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Rightside Panel Page A4 Landscap-2.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Meghmani Organics Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/yellow panle.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Zobid plus-oxalgin-P.jpg"
-        },
-        {
-            "type": "display-panels-signages",
-            "title": "Zydus Animal Health Ltd.",
-            "image": "/ourwork/Graphic/Display Panels & Signages/Zycloz-Biobloom.jpg"
+            "type": "advertisement-campaigns",
+            "title": "Pathway Group",
+            "image": "/ourwork/Graphic/Advertisiment campaigns/Advt 12 x 15 cms.jpg"
         }
     ]
 }
