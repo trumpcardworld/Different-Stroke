@@ -48,7 +48,7 @@ const ServiceSection = () => {
               className="group bg-white border border-[#ebe5db] rounded-lg p-5 transition-shadow duration-300 hover:shadow-lg"
             >
               {/* Image container */}
-              <div className="relative -mt-5 mb-6 overflow-hidden rounded-lg">
+              <div className="relative -mt-5 mb-2 overflow-hidden rounded-lg">
                 <div className="aspect-w-16 aspect-h-12">
                   <Image
                     src={service.image}
@@ -67,7 +67,7 @@ const ServiceSection = () => {
                     {service.title}
                   </a>
                 </h3>
-                <p className="text-gray-600 mb-4">{service.location}</p>
+                <p className="text-gray-600 mb-2">{service.location}</p>
 
                 {/* Read more button */}
                 <div className="relative -mb-[45px]">

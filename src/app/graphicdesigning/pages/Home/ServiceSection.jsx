@@ -48,11 +48,9 @@ const GraphicDesignServices = () => {
               className="group bg-white border border-orange-200 rounded-lg p-5 transition-all duration-300 hover:shadow-xl hover:border-orange-300"
             >
               {/* Image container */}
-              <div className="relative -mt-5 mb-6 overflow-hidden rounded-lg">
+              <div className="relative -mt-5 mb-3 overflow-hidden rounded-lg">
                 <div className="aspect-w-16 aspect-h-12">
-                  {/* Placeholder for service images - replace with actual images */}
-                  
-                  
+             
                   {/* Alternative: Uncomment when you have actual images */}
                   <Image
                     src={service.image}
@@ -66,15 +64,15 @@ const GraphicDesignServices = () => {
 
               {/* Text content */}
               <div className="text-center px-5">
-                <h3 className="text-2xl font-bold mb-4">
+                <h3 className="text-2xl font-bold mb-2">
                   <a href="#" className="text-gray-900 hover:text-orange-500 transition-colors duration-200">
                     {service.title}
                   </a>
                 </h3>
-                <p className="text-gray-600 mb-6">{service.location}</p>
+                <p className="text-gray-600 mb-4">{service.location}</p>
 
                 {/* Read more button */}
-                <div className="relative -mb-[0px]">
+                <div className="relative ">
                   <a
                     href={service.href}
                     className="inline-block w-12 h-12 rounded-full bg-orange-100 hover:bg-orange-500 hover:text-white transition-all duration-200 transform hover:scale-105"
